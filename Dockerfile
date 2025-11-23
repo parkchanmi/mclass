@@ -1,3 +1,4 @@
+#이미지 다운로드하여 사용
 FROM eclipse-temurin:17-jdk
 
 # JAR 파일이 저장될 작업 디렉토리 설정
